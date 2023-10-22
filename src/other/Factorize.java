@@ -2,7 +2,10 @@
 
 package other;
 import java.util.*;
-
+/*
+ * @author:vincent.lai
+ * @cuTime:2023.10.22
+*/
 public class Factorize {
 
     static boolean isFactorize = false;
