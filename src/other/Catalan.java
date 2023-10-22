@@ -1,4 +1,4 @@
-package knowledge.Other;// Catalan数：二叉树节点、左右括号匹配、成对买票、分割三角形、栈出顺序
+package other;// Catalan数：二叉树节点、左右括号匹配、成对买票、分割三角形、栈出顺序
 // f(n) = f(0) * f(n - 1) + f(1) * f(n - 2) + ... + f(n - 2) * f(1) + f(n - 1) * f(0)
 // 统计Catalan数
 

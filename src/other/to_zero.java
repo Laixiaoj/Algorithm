@@ -1,4 +1,4 @@
-package knowledge.Other;
+package other;
 
 // 归零:计算将给定字符串异或为0时需要几次操作，即连续1的个数
 public class to_zero {

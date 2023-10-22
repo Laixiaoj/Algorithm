@@ -1,4 +1,4 @@
-package knowledge.Other;
+package other;
 
 import java.util.Arrays;
 

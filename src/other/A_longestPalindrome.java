@@ -1,4 +1,4 @@
-package knowledge.Other;
+package other;
 
 // 暴力枚举求最长回文
 public class A_longestPalindrome {
