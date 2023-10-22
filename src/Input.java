@@ -5,7 +5,7 @@ public class Input {
     public static void main(String[] agrs){
         Scanner scanner = new Scanner(System.in);
 
-        // ------------ 按 1,2,3格式输入到数组,ArraryList中
+        // ------------ 按 1,2,3格式输入到数组, ArraryList中
         String input = scanner.next();
         String[] string = input.split(","); // 以,分割
         int[] a = new int[4];
@@ -31,13 +31,6 @@ public class Input {
 
         // ------------- 数组排序
         Arrays.sort(a);
-
-
-
-
-
-
-
     }
 
 
