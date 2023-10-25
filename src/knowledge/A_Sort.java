@@ -126,8 +126,6 @@ public class A_Sort {
             a[L + l] = b[l];
         }
 
-        ExecutorService excutor = Executors.newFixedThreadPool(4);
-
     }
 
 }
